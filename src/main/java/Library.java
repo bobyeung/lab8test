@@ -6,6 +6,7 @@ public class Library {
 	public static void main(String arg[]) {
 		System.out.println("trump!");
 		System.out.println("kim !");
+		System.out.println();
 	}
 	
     public boolean someLibraryMethod() {
