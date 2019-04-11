@@ -1,0 +1,6 @@
+-classpath 'C:\\Users\\Admin\\eclipse-workspace\\Trump\\build\\classes\\java\\main;C:\\Users\\Admin\\eclipse-workspace\\Trump\\build\\resources\\main'
+-d 'C:\\Users\\Admin\\eclipse-workspace\\Trump\\build\\docs\\javadoc'
+-doctitle 'Kim API'
+-quiet 
+-windowtitle 'Kim API'
+'C:\\Users\\Admin\\eclipse-workspace\\Trump\\src\\main\\java\\Library.java'
